@@ -2,7 +2,7 @@
 
 ## Feature
 
-Login and Signup of players
+Register and Login of players
 
 ## Acceptance Criteria
 
