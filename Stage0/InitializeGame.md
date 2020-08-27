@@ -2,15 +2,15 @@
 
 ## Feature
 
-Setting up paddles,background colour,ball and scores
+Setting up paddles,background color,ball and scores
 
 ## Acceptance Criteria
 
-### Scenario: Initialization of background colour,paddles, ball and scores
+### Scenario: Initialization of background color,paddles, ball and scores
 
 Given user has logged in the game  
 When user clicks play button  
-Then initialize screen with background colour,paddles on left and right  
+Then initialize screen with background color,paddles on left and right  
 
 Given user has logged in the game  
 When user clicks play button  
