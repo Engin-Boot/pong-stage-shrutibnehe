@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module is responsible for login and signup of players
+Login and Signup of players
 
 ## Acceptance Criteria
 
