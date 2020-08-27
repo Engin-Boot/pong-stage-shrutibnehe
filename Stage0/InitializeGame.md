@@ -2,7 +2,7 @@
 
 ## Feature
 
-Setting up paddles,background colour,ball and scores 
+Setting up paddles,background colour,ball and scores
 
 ## Acceptance Criteria
 
@@ -16,6 +16,6 @@ Given user has logged in the game
 When user clicks play button  
 Then initialize the ball with certain speed and in particular direction  
 
-Given user has logged in the game
+Given user has logged in the game  
 When user clicks play button  
 Then initialize the scores of the players
