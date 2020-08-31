@@ -9,7 +9,8 @@ This module will update direction of Ball
 ### Scenario: Direction update
 
 Given player is playing game  
-When "Paddle ball collision" received from 'Collision check'      
+When "Paddle ball collision" received
+from 'Collision Check'
 Then update the direction of the ball
 
 Given player is playing game  
