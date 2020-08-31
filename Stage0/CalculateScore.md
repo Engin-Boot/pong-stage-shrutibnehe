@@ -10,7 +10,7 @@ This module will calculate score
 
 Given player is playing game  
 When "Paddle Ball Collision" with player no
-is returned from 'collision check' module'      
+is returned from 'collision check' module       
 Then increment the score of the player by 1
 
 ### Scenario: Maximum play time reached
