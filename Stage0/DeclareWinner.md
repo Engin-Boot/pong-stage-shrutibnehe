@@ -2,21 +2,24 @@
 
 ## Feature
 
-This module will declare winner.After declaring it will prompt user to restart or quit game
+This module will declare winner.
+After declaring it will prompt user to restart or quit game
 
 ## Acceptance Criteria
 
-### Scenario: Player1 is winner
+### Scenario: Player 1 is winner
 
 Given players are playing game  
 When declare winner module called  
-Then if player1 score is greater than player2,declare player 1 winner
+Then if player 1 score is greater than player 2,
+declare player 1 winner
 
-### Scenario: Player2 is winner
+### Scenario: Player 2 is winner
 
 Given players are playing game  
 When declare winner module called  
-Then if player2 score is greater than player1,declare player 2 winner
+Then if player 2 score is greater than player 1,
+declare player 2 winner
 
 ### Scenario: Scores are equal
 
