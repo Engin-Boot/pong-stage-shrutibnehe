@@ -17,5 +17,5 @@ and 'UpdateBallDirection' module
 ### Scenario: Collision of Ball with walls
 
 Given player is playing game  
-When ball hits the walls   
+When ball hits the walls  
 Then return "Ball Wall Collision" to 'UpdateBallDirection' module
