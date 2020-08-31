@@ -10,9 +10,12 @@ This module will check the type of collison
 
 Given player is playing game  
 When ball hits paddle of player1 or player2  
-Then return "Paddle Ball Collision" with player no to 'ScoreCalculator' module and 'UpdateBallDirection' module
+Then return "Paddle Ball Collision" with player no
+to 'ScoreCalculator' module
+and 'UpdateBallDirection' module
 
 ### Scenario: Collision of Ball with walls
-Given player is playing game    
+
+Given player is playing game  
 When ball hits the walls   
 Then return "Ball Wall Collision" to 'UpdateBallDirection' module
