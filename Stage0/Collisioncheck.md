@@ -2,20 +2,21 @@
 
 ## Feature
 
-This module will check the type of collison
+This module will check the type of collision
 
 ## Acceptance Criteria
 
 ### Scenario: Collision of Ball with Paddle
 
 Given player is playing game  
-When ball hits paddle of player1 or player2  
+When ball hits paddle of player 1 or player 2  
 Then return "Paddle Ball Collision" with player no
-to 'ScoreCalculator' module
-and 'UpdateBallDirection' module
+to 'Score Calculator' module
+and 'Update Ball Direction' module
 
 ### Scenario: Collision of Ball with walls
 
 Given player is playing game  
 When ball hits the walls  
-Then return "Ball Wall Collision" to 'UpdateBallDirection' module
+Then return "Ball Wall Collision"
+to 'Update Ball Direction' module
